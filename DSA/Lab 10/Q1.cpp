@@ -53,6 +53,8 @@ void display(Queue &q){
 }
 
 int main() {
+    cout<<"Aditya Patidar"<<endl ;
+    cout<<"25112011324"<<endl ;
     int choice;
     Queue q;
     do {
